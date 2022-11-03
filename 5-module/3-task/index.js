@@ -1,3 +1,4 @@
+
 let counter = 0;
 function initCarousel() {
 const buttonRight = document.querySelector(".carousel__arrow_right");
@@ -35,3 +36,4 @@ if (counter >= 3) {
   buttonRight.style.display = "";
 }
 }
+
